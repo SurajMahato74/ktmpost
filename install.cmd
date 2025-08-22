@@ -1,0 +1,1 @@
+npm install clsx tailwind-merge class-variance-authority @radix-ui/react-slot @radix-ui/react-separator @radix-ui/react-dropdown-menu @radix-ui/react-avatar @radix-ui/react-select @radix-ui/react-sidebar @radix-ui/react-dialog @radix-ui/react-label @radix-ui/react-switch @radix-ui/react-tooltip sonner @tinymce/tinymce-react
